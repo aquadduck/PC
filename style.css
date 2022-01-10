@@ -1,0 +1,106 @@
+body
+{
+    background-image: url("https://img.wallpapersafari.com/desktop/1366/768/46/40/hZFqgT.png");
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+    background-size: cover; 
+    color: black;
+    text-align: center;
+}
+
+ul 
+{
+    background-color: rgb(144, 211, 255);
+    color: rgb(0, 119, 255);
+}
+
+.link
+{
+    display: inline;
+    width: 640px;
+    font-size: 30px;
+    font-family: "Comic Sans MS";
+}
+
+.link:hover
+{
+    text-decoration: underline;
+}
+
+#pc
+{
+    height: 100px;
+    width: 140px;
+    font-family: "Comic Sans MS";
+}
+
+#qoute
+{
+    font-style: italic;
+    font-family: "Comic Sans MS";
+}
+
+#cheap_pc
+{
+    width: 200px;
+    height: 200px;
+}
+
+#expensive_pc
+{
+    width: 200px;
+    height: 200px;
+}
+
+#black_case
+{
+    width: 200px;
+    height: 200px;
+}
+
+#white_case
+{
+    width: 200px;
+    height: 200px;
+}
+
+dd
+{
+    text-align: center;
+    font-size: 20px;
+    font-family: "Comic Sans MS";}
+
+#hi
+{
+    text-align: center;
+    color:  rgb(6,69,173);
+    font-family: "Comic Sans MS";
+}
+
+dt
+{
+    color: black;
+    font-size: 40px;
+    font-family: "Comic Sans MS";
+}
+
+#build
+{
+    width: 300px;
+    height: 200px;
+}
+
+h1
+{
+    font-size: 50px;
+    font-family: "Comic Sans MS";
+}
+
+h3
+{
+    font-family: "Comic Sans MS";
+}
+
+h2 
+{
+    font-family: "Comic Sans MS";
+}
